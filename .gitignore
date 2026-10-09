@@ -1,0 +1,13 @@
+.venv/
+models/
+dist/
+build/
+__pycache__/
+.pytest_cache/
+artifacts/
+*.spec
+
+.env
+.env.*
+*.log
+stage_manifest.json
